@@ -1,0 +1,9 @@
+[package]
+name = "midi-controller-esp32-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+midir = "0.10.0"
+serialport = "4.4.0"
