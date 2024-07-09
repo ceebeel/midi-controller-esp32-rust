@@ -1,6 +1,6 @@
 use anyhow::{Context, Result};
 use midir::{MidiOutput, MidiOutputPort};
-use serialport::SerialPort;
+// use serialport::SerialPort;
 use std::io::{Read, Write};
 use std::time::Duration;
 
